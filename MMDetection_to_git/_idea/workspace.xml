@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65353327-0650-41a4-9b2c-6bd1a2208351" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TBLEgf5gOB37ZRASAfoYbec027" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/关宁/MMDetection/configs/centernet&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\关宁\MMDetection\configs\centernet" />
+      <recent name="C:\Users\关宁\MMDetection\configs\fcos" />
+      <recent name="C:\Users\关宁\MMDetection\configs\faster_rcnn" />
+      <recent name="C:\Users\关宁\MMDetection\configs\efficientnet" />
+      <recent name="C:\Users\关宁\MMDetection\configs\convnext" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MMDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="65353327-0650-41a4-9b2c-6bd1a2208351" name="更改" comment="" />
+      <created>1690511416274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690511416274</updated>
+      <workItem from="1690511417297" duration="1304000" />
+      <workItem from="1690538036258" duration="1477000" />
+      <workItem from="1690541168306" duration="202000" />
+      <workItem from="1690541653106" duration="2553000" />
+      <workItem from="1690602968000" duration="5555000" />
+      <workItem from="1690772947090" duration="14690000" />
+      <workItem from="1690862068411" duration="18131000" />
+      <workItem from="1690975777842" duration="29000" />
+      <workItem from="1691326670674" duration="178000" />
+      <workItem from="1691327183667" duration="4242000" />
+      <workItem from="1691331500150" duration="3029000" />
+      <workItem from="1691493870843" duration="42000" />
+      <workItem from="1691677273164" duration="98000" />
+      <workItem from="1691762585805" duration="141000" />
+      <workItem from="1691763834650" duration="289000" />
+      <workItem from="1691764989239" duration="353000" />
+      <workItem from="1691827895361" duration="3893000" />
+      <workItem from="1691845775228" duration="6428000" />
+      <workItem from="1692014117505" duration="1195000" />
+      <workItem from="1692062962298" duration="7662000" />
+      <workItem from="1692107303682" duration="13703000" />
+      <workItem from="1692347395828" duration="1979000" />
+      <workItem from="1692409373246" duration="10960000" />
+      <workItem from="1692445638136" duration="22691000" />
+      <workItem from="1692593410884" duration="15516000" />
+      <workItem from="1692753286853" duration="7501000" />
+      <workItem from="1692839410424" duration="32128000" />
+      <workItem from="1693009030307" duration="85220000" />
+      <workItem from="1693614855140" duration="1258000" />
+      <workItem from="1693616142281" duration="7206000" />
+      <workItem from="1693665729550" duration="1334000" />
+      <workItem from="1693701719970" duration="528000" />
+      <workItem from="1693702266329" duration="574000" />
+      <workItem from="1693702980898" duration="351000" />
+      <workItem from="1693703412128" duration="15815000" />
+      <workItem from="1693794444638" duration="24964000" />
+      <workItem from="1693917309843" duration="13157000" />
+      <workItem from="1694014898084" duration="46894000" />
+      <workItem from="1694438615818" duration="6836000" />
+      <workItem from="1694873363044" duration="8617000" />
+      <workItem from="1694962636833" duration="7253000" />
+      <workItem from="1695092021715" duration="1290000" />
+      <workItem from="1695093446578" duration="11919000" />
+      <workItem from="1695132479459" duration="2836000" />
+      <workItem from="1695266740212" duration="3340000" />
+      <workItem from="1695307430427" duration="2851000" />
+      <workItem from="1695439978618" duration="5722000" />
+      <workItem from="1695604076926" duration="8534000" />
+      <workItem from="1695655139611" duration="8292000" />
+      <workItem from="1695729638255" duration="149000" />
+      <workItem from="1695740547208" duration="46083000" />
+      <workItem from="1696224050428" duration="616000" />
+      <workItem from="1696305829082" duration="6630000" />
+      <workItem from="1696421715535" duration="53699000" />
+      <workItem from="1696901003946" duration="12081000" />
+      <workItem from="1697074643578" duration="3296000" />
+      <workItem from="1697683214216" duration="604000" />
+      <workItem from="1698025227078" duration="12539000" />
+      <workItem from="1698111104617" duration="3092000" />
+      <workItem from="1698116620494" duration="22061000" />
+      <workItem from="1698907600086" duration="11204000" />
+      <workItem from="1698996748063" duration="919000" />
+      <workItem from="1698997884561" duration="32851000" />
+      <workItem from="1700202738974" duration="1785000" />
+      <workItem from="1700367337474" duration="27000" />
+      <workItem from="1701073347200" duration="1706000" />
+      <workItem from="1701163253295" duration="600000" />
+      <workItem from="1701224731439" duration="1066000" />
+      <workItem from="1701655757709" duration="13339000" />
+      <workItem from="1701695961811" duration="829000" />
+      <workItem from="1701740163844" duration="8321000" />
+      <workItem from="1701763857483" duration="21796000" />
+      <workItem from="1702823439223" duration="37000" />
+      <workItem from="1702823550195" duration="7670000" />
+      <workItem from="1703047210918" duration="2024000" />
+      <workItem from="1703583485118" duration="4515000" />
+      <workItem from="1703603639881" duration="1840000" />
+      <workItem from="1703642084979" duration="8881000" />
+      <workItem from="1703755530559" duration="2571000" />
+      <workItem from="1703843110561" duration="580000" />
+      <workItem from="1703899343790" duration="2000" />
+      <workItem from="1703906998150" duration="1832000" />
+      <workItem from="1706098567622" duration="328000" />
+      <workItem from="1707010908851" duration="2979000" />
+      <workItem from="1707015132145" duration="9732000" />
+      <workItem from="1707105247449" duration="6967000" />
+      <workItem from="1707183605940" duration="1732000" />
+      <workItem from="1708089466216" duration="322000" />
+      <workItem from="1708131237285" duration="9470000" />
+      <workItem from="1708234685412" duration="4761000" />
+      <workItem from="1708308722674" duration="6334000" />
+      <workItem from="1708326522075" duration="8466000" />
+      <workItem from="1708388563792" duration="32121000" />
+      <workItem from="1708562036619" duration="52427000" />
+      <workItem from="1709091362508" duration="10544000" />
+      <workItem from="1709190359013" duration="7600000" />
+      <workItem from="1709213034586" duration="10543000" />
+      <workItem from="1709345186908" duration="12800000" />
+      <workItem from="1709451022695" duration="32541000" />
+      <workItem from="1709774806632" duration="4463000" />
+      <workItem from="1710045797366" duration="15680000" />
+      <workItem from="1710168422147" duration="12715000" />
+      <workItem from="1710320915214" duration="3712000" />
+      <workItem from="1710381977318" duration="5642000" />
+      <workItem from="1710406440368" duration="554000" />
+      <workItem from="1710407011345" duration="5311000" />
+      <workItem from="1710430441606" duration="4950000" />
+      <workItem from="1710514822259" duration="14948000" />
+      <workItem from="1710724829452" duration="20903000" />
+      <workItem from="1711246989953" duration="14535000" />
+      <workItem from="1711501957662" duration="4046000" />
+      <workItem from="1711528208129" duration="2912000" />
+      <workItem from="1711588016161" duration="1460000" />
+      <workItem from="1711641930296" duration="4794000" />
+      <workItem from="1711768681197" duration="24582000" />
+      <workItem from="1711985010162" duration="615000" />
+      <workItem from="1712021136757" duration="1637000" />
+      <workItem from="1712046023351" duration="17230000" />
+      <workItem from="1712072433067" duration="13028000" />
+      <workItem from="1712212293977" duration="194000" />
+      <workItem from="1712212580019" duration="6300000" />
+      <workItem from="1712241150936" duration="764000" />
+      <workItem from="1712242146287" duration="34159000" />
+      <workItem from="1713946988352" duration="3613000" />
+      <workItem from="1714964966722" duration="9846000" />
+      <workItem from="1716182076007" duration="3715000" />
+      <workItem from="1716532143125" duration="4188000" />
+      <workItem from="1716559002370" duration="241000" />
+      <workItem from="1716559328448" duration="5163000" />
+      <workItem from="1717138434497" duration="1986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MMDetection$Doctests__csp_darknet__.coverage" NAME="Doctests (csp_darknet 内) 覆盖结果" MODIFIED="1701745150671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdet/models/backbones" />
+    <SUITE FILE_PATH="coverage/MMDetection$my_yolox.coverage" NAME="my_yolox 覆盖结果" MODIFIED="1695116828618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configs/yolox" />
+    <SUITE FILE_PATH="coverage/MMDetection$7.coverage" NAME="7 覆盖结果" MODIFIED="1711961588680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MMDetection$main.coverage" NAME="main 覆盖结果" MODIFIED="1693821211867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/test" />
+    <SUITE FILE_PATH="coverage/MMDetection$slice_coco.coverage" NAME="slice_coco 覆盖结果" MODIFIED="1693749252179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Anaconda/envs/MMDetection/Lib/site-packages/sahi/scripts" />
+    <SUITE FILE_PATH="coverage/MMDetection$conv_module.coverage" NAME="conv_module 覆盖结果" MODIFIED="1701744982602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Anaconda/envs/MMDetection/Lib/site-packages/mmcv/cnn/bricks" />
+    <SUITE FILE_PATH="coverage/MMDetection$Doctests__class_aware_sampler__.coverage" NAME="Doctests (class_aware_sampler 内) 覆盖结果" MODIFIED="1692884787131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdet/datasets/samplers" />
+    <SUITE FILE_PATH="coverage/MMDetection$dataset_wrappers.coverage" NAME="dataset_wrappers 覆盖结果" MODIFIED="1693034916217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdet/datasets" />
+    <SUITE FILE_PATH="coverage/MMDetection$Doctests__det_tta__.coverage" NAME="Doctests (det_tta 内) 覆盖结果" MODIFIED="1699275299363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdet/models/test_time_augs" />
+    <SUITE FILE_PATH="coverage/MMDetection$1.coverage" NAME="1 覆盖结果" MODIFIED="1693820342545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MMDetection$yolox_s_8xb8_300e_coco.coverage" NAME="yolox_s_8xb8-300e_coco 覆盖结果" MODIFIED="1694234019493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configs/yolox" />
+    <SUITE FILE_PATH="coverage/MMDetection$4.coverage" NAME="4 覆盖结果" MODIFIED="1708843156889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MMDetection$faster_rcnn_r50_attn0010_dcn_fpn_1x_coco.coverage" NAME="faster-rcnn_r50-attn0010-dcn_fpn_1x_coco 覆盖结果" MODIFIED="1695116419055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configs/empirical_attention" />
+  </component>
+</project>
